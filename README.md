@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="![Image](https://github.com/user-attachments/assets/ff3e9f60-d5a3-4fd4-83bd-7f054cd2e9cb)" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/ff3e9f60-d5a3-4fd4-83bd-7f054cd2e9cb" />
 
   <h1>Built with AI Studio</h2>
 
